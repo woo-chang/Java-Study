@@ -1,4 +1,4 @@
-package Chapter02;
+package TheEssenceOfJava.Chapter02;
 
 import java.util.Scanner;
 
