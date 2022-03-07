@@ -17,6 +17,45 @@ public class SingleLinkedListTest {
     System.out.println("--------------------");
 
     MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
+    MyLinkedList.addNodeInside1(4, 2);
+
+    MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
+    MyLinkedList.addNodeInside1(5, 7);
+
+    MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
+    MyLinkedList.addNodeInside(7, 4);
+
+    MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
+    MyLinkedList.addNodeInside(7, 11);
+
+    MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
+    System.out.println(MyLinkedList.delNode(3));
+
+    MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
+    System.out.println(MyLinkedList.delNode(22));
+
+    MyLinkedList.printAll();
+
+    System.out.println("--------------------");
+
   }
 
 }
