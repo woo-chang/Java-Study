@@ -25,6 +25,18 @@ public class DoubleLinkedListTest {
     System.out.println(MyLinkedList.searchFromTail(12));
 
     System.out.println("=================");
+
+    MyLinkedList.insertToFront(3, 101);
+
+    MyLinkedList.printAll();
+
+    System.out.println("=================");
+
+    MyLinkedList.insertToFront(123, 2);
+
+    MyLinkedList.printAll();
+
+    System.out.println("=================");
   }
 
 }
