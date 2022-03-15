@@ -13,5 +13,8 @@ public class OperatorExample {
     
     byte c = (byte)(a+b);
     System.out.println("c = " + c);
+
+    int d;
+    System.out.println(d = 3);
   }
 }
