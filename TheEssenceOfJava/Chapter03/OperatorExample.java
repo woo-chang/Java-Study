@@ -16,5 +16,16 @@ public class OperatorExample {
 
     int d;
     System.out.println(d = 3);
+
+    int e = -10;
+    int f = 3;
+    System.out.println(e%f);
+    System.out.println((-e)%(-f));
+
+    String str1 = new String("hello");
+    String str2 = new String("hello");
+
+    System.out.println(str1 == str2);
+    System.out.println(str1.equals(str2));
   }
 }
