@@ -1,5 +1,4 @@
-![](https://images.velog.io/images/woo-chang/post/708ebc48-b70a-4bc2-990f-4e57333ac0d0/%E1%84%86%E1%85%AE%E1%84%8C%E1%85%A6.001.jpeg)
-
+# Chapter02. 변수
 ## 1. 변수
 ### 1) 변수(variable)란?
 단 하나의 값을 저장할 수 있는 `메모리 공간`을 의미
