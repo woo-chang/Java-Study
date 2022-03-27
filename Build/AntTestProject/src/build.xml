@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<project name="AntProject" default="main" basedir=".">
+  <target name="main">
+    <javac srcdir="./src" destdir="./bin" includeantruntime="false">
+    </javac>
+    <java classpath="./bin" classname="com.company.Main">
+    </java>
+  </target>
+</project>
