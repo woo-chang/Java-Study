@@ -11,5 +11,9 @@ public class HeapTest {
     heap.insert(20);
 
     System.out.println(heap.heapArray);
+
+    heap.pop();
+
+    System.out.println(heap.heapArray);
   }
 }
