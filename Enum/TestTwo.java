@@ -16,7 +16,7 @@ public class TestTwo {
 
   public static void main(String[] args) {
     checkHardLevel(Hard.ONE);
-    checkHardLevel(Basic.ONE);
+    //checkHardLevel(Basic.ONE);
   }
 
 }
