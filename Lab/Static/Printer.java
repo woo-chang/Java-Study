@@ -2,7 +2,7 @@ package Lab.Static;
 
 public class Printer {
 
-  public static Printer printer;
+  private static Printer printer;
 
   public static synchronized Printer getInstance() {
     if (printer == null) {
