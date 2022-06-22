@@ -1,4 +1,4 @@
-package Enum;
+package Presentation.Enum;
 
 public final class MyConstant {
 

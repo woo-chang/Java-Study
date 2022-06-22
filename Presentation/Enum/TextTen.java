@@ -1,4 +1,4 @@
-package Enum;
+package Presentation.Enum;
 
 import java.util.Arrays;
 import java.util.List;
