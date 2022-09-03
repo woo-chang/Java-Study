@@ -1,4 +1,4 @@
-package Lab.Static;
+package Lab.staticTest;
 
 public class Printer {
 

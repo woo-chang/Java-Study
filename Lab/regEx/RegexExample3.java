@@ -1,4 +1,4 @@
-package Lab.RegEx;
+package Lab.regEx;
 
 public class RegexExample3 {
 
